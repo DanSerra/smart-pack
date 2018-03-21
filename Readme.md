@@ -67,3 +67,8 @@ partir del código QR
 * Analizar el comportamiento de los usuarios
 * Máximo rendimiento de nuestra landing page
 
+Colaboradores:
+
+* Jessy Cuevas
+* Daniela Serrano
+* Angelica Rivera
