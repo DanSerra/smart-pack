@@ -3,6 +3,10 @@
 
 ![logo.png](logo.png)
 
+Previsualización
+
+![landingpage](https://user-images.githubusercontent.com/31232183/38585872-15895644-3ce1-11e8-9770-0bc7b4451e03.jpg)
+
 ## PROBLEMATICA
 
 Las líneas de autobuses no cuentan con un método efectivo de registro de equipaje en viajes cortos (Ciudad de México - Cuernavaca).
