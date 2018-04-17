@@ -1,5 +1,4 @@
-
-## SmartPak
+# SmartPak
 
 Previsualización
 
